@@ -23,6 +23,7 @@
     "nativeLanguage": "zh-cn",
     "languages": [
       "zh-cn"
-    ]
+    ],
+    "enableSocialSignIn": false
   }
 }
