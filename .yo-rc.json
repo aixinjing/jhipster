@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "3.0.0",
+    "baseName": "jhipster",
+    "packageName": "com.axj.demo",
+    "packageFolder": "com/axj/demo",
+    "serverPort": "8080",
+    "authenticationType": "oauth2",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "hazelcast",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "buildTool": "maven",
+    "useSass": false,
+    "applicationType": "monolith",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn"
+    ]
+  }
+}
